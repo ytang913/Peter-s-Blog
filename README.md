@@ -39,7 +39,9 @@ Express.js is used to help deploy the website onto Heroku
 # When the user navigates to the "Money: Monetary of currency" Post
 ![](PetersBlog/moneypost.jpg)
 # When the user is on the Subscribe page
-![](PetersBlog/)
+![](PetersBlog/subscribe.jpg)
+# When the user successfully enters in their email into the Subscribe form
+![](PetersBlog/form.jpg)
  
 # The website was deployed on Heroku: 
 ## https://peter-sblog.herokuapp.com/
