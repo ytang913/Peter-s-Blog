@@ -17,7 +17,7 @@ Formspree.io is used for the backend of the form itself
 Express.js is used to help deploy the website onto Heroku 
 
 # When user opens the website initially 
-![](images/)
+![](PetersBlog/profile.jpg)
 # When the user navigates to the about section in the Home Page
 ![](images/)                 
 # When the user navigates to the blog posts section in the Home Page
