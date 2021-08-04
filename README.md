@@ -26,8 +26,6 @@ Express.js is used to help deploy the website onto Heroku
 ![](images/)
 # When the user is on the About Page
 ![](images/)
-# When the user is on the Posts Page
-![](images/)
 # When the user is on "Don't be afraid to be seen trying" section in the Posts Page
 ![](images/)
 # When the user is on "Academia: Struggles of Pursuing Higher Education" section in the Posts Page
