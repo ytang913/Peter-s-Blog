@@ -19,25 +19,25 @@ Express.js is used to help deploy the website onto Heroku
 # When user opens the website initially 
 ![](PetersBlog/profile.jpg)
 # When the user navigates to the about section in the Home Page
-![](images/)                 
+![](PetersBlog/abouthome.jpg)               
 # When the user navigates to the blog posts section in the Home Page
-![](images/)
+![](PetersBlog/bloghome.jpg)
 # When a user navigates to the subscribe section in the Home Page
-![](images/)
+![](PetersBlog/subhome.jpg)
 # When the user is on the About Page
-![](images/)
+![](PetersBlog/about.jpg)
 # When the user is on "Don't be afraid to be seen trying" section in the Posts Page
-![](images/)
+![](PetersBlog/post1.jpg)
 # When the user is on "Academia: Struggles of Pursuing Higher Education" section in the Posts Page
-![](images/)
+![](PetersBlog/post2.jpg)
 # When the user is on "Money: Monetary of currency" section in the Posts Page
-![](images/)
+![](PetersBlog/post3.jpg)
 # When the user navigates to the "Don't be afraid to be seen trying" Post 
-![](images/)
+![](PetersBlog/dontpost.jpg)
 # When the user navigates to the "Academia: Struggles of Pursuing Higher Education" Post 
-![](images/)
+![](PetersBlog/edupost.jpg)
 # When the user navigates to the "Money: Monetary of currency" Post
-![](images/)
+![](PetersBlog/moneypost.jpg)
  
 # The website was deployed on Heroku: 
 ## https://peter-sblog.herokuapp.com/
